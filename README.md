@@ -1,7 +1,7 @@
 # Hi, I'm Jake Kreppel 👋
 
 ## 📊 Data Analyst Portfolio
-I specialize in the full data lifecycle—from automated extraction to business intelligence and visualization.
+I specialize in the full data lifecycle, from automated extraction to business intelligence and visualization.
 
 ### 🚀 Featured Projects
 
